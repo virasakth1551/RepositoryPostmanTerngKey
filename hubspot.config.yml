@@ -1,0 +1,14 @@
+defaultPortal: CustomerSupportDepartment
+portals:
+  - name: CustomerSupportDepartment
+    portalId: 20053059
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CM3xj6T6MBITAA0AAAAA4E0DQAIAAGAAAAAAwBjD-McJILbVqBYo7ukMMhRddAfjXpxYCJdx_ZTdqkGRmRBj5jo6AAAEQQAAAHgAAAAAAAAAAAAAAAAAAAAEAADABwD-_zE8AEAGAEQAYAAAAAAAAAwAAAAAAAAwAgAAwEIUM4sefCvxSNsobC1Q-Duiy6uCMWFKA25hMVIAWgA
+        expiresAt: '2023-04-21T15:52:05.093Z'
+    personalAccessKey: >-
+      CiRiYWQzZDNjOS01NjM1LTQ1NjYtYjY1My0yYjYwNmZhZjJlMDAQw_jHCRi21agWKhkABeaRguqLrvFOV5t6mt919qO7T_R5CjEFSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
